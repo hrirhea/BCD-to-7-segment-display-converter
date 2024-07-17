@@ -1,5 +1,4 @@
-// Code your testbench here
-// or browse Examples
+
 module tb_BCDto7Segment;
 
 // Testbench signals
